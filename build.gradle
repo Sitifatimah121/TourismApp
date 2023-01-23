@@ -30,6 +30,7 @@ buildscript {
     ext.fragment_ktx_version = "1.2.5"
     ext.hilt_version = '2.36'
 
+    ext.lottie_version = "3.4.1"
 
     repositories {
         google()

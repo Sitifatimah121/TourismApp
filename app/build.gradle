@@ -77,4 +77,7 @@ dependencies {
     //by viewModels di Activity dan Fragment
     implementation "androidx.activity:activity-ktx:$activity_ktx_version"
     implementation "androidx.fragment:fragment-ktx:$fragment_ktx_version"
+
+    //lottie
+    implementation "com.airbnb.android:lottie:$lottie_version"
 }
